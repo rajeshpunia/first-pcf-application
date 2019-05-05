@@ -4,4 +4,4 @@ applications:
   name: first-pcf-application
   instances: 1
   memory: 512m
-  path: target/first-pcf-application.0.0.1-SNAPSHOT.jar
+  path: /target/first-pcf-application.0.0.1-SNAPSHOT.jar
